@@ -1,7 +1,7 @@
 # fCC-D3-Scatterplot-Graph
 
 ### Objective
-Visualize the provided Doping Allegations in Cyclung data using the D3 svg-based visualization library.
+Visualize the provided Doping Allegations in Cycling data using the D3 svg-based visualization library.
 
 ### User Stories / Test Cases
 
